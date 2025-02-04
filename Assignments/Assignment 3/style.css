@@ -1,0 +1,66 @@
+* {
+    font-family: "Lato", serif;
+}
+.container {
+    background-color: rgb(223, 227, 229);
+    padding: 20px;
+    margin: 30px;
+}
+
+h1 {
+    color: rgb(26, 26, 111);
+}
+
+.nav {
+    background-color: rgb(152, 139, 206);
+    padding: 20px;
+    text-align: center;
+}
+
+.nav a {
+    color: white;
+    text-decoration: none;
+    padding: 20px;
+    font-size: 1rem;
+}
+
+.content {
+    background-color: white;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+h2 {
+    color: rgb(26, 26, 111);
+}
+
+.content p {
+    line-height: 1.5;
+}
+
+.content div {
+    text-align: center;
+}
+
+.content li {
+    line-height: 2;
+}
+
+.content2 {
+    background-color: white;
+    padding: 20px;
+    border-radius: 10px;
+    margin-top: 30px;
+}
+
+.content2 li {
+    line-height: 2;
+    font-weight: 600;
+}
+
+.footer {
+    background-color: rgb(49, 49, 50);
+    color: white;
+    padding: 10px;
+    text-align: center;
+}
